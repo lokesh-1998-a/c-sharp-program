@@ -5,7 +5,7 @@ namespace ConsoleApplication1
     class Stack
     {
         private int[] ele;
-        private int top
+        private int top;
         private int max;
         public Stack(int size)
         {
